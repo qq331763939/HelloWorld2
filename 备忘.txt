@@ -1,5 +1,5 @@
 入口类 springBootApplication
-
+完全
 Eureka Server 服务发现组件
 
 Ribbon 实现客户端负载均衡

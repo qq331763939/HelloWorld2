@@ -1,6 +1,6 @@
 Thread、Executor、ForkJoin和Actor
 
-我去问问
+我去问问2121212
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
